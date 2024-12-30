@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+
+# Runtime data
+.env
+
